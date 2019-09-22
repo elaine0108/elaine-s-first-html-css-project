@@ -1,0 +1,43 @@
+
+
+body {
+    background-color:black;
+}
+
+html,body{
+    margin:0;
+    padding:0
+}
+a{
+    color: darkgrey;
+    font-size: 20px;
+    font-family: "New Peninim MT";
+}
+#page-container{
+    width:760;
+    margin:auto
+}
+#title{
+    height:150px;
+    background: url("elaine.title.png") no-repeat;
+    color: white;
+    text-align: right;
+
+
+
+}
+
+#pic{
+    background:steelblue;
+    text-align: center;
+    height:600px;
+    background: url("background.jpg");
+
+}
+
+
+input{
+    color: black;
+}
+
+}
