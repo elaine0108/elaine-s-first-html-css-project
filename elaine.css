@@ -8,7 +8,7 @@ html,body{
     margin:0;
     padding:0
 }
-a{
+#grey{
     color: darkgrey;
     font-size: 20px;
     font-family: "New Peninim MT";
@@ -26,18 +26,43 @@ a{
 
 
 }
+#text1{
+    color: white;
+    font-size: 40px;
+}
 
 #pic{
     background:steelblue;
     text-align: center;
     height:600px;
-    background: url("background.jpg");
+    background: url("https://www.javascript.com/content/pluralsight/en/jscom/jcr:content/main/generic_block/image-res.img.67d747c4-fdcf-4cfc-97ff-626f7873a948.jpg");
 
 }
 
 
 input{
     color: black;
-}
+    width: 900px;
+    height: 50px;
+    background:black;
+    color: white;
 
+    border: 0px;
+    font-size: 5px;
+
+}
+#special{
+
+    background: deeppink;
+    font-size: 15px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+
+
+    text-align: center;
+
+}
 }
